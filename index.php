@@ -18,7 +18,7 @@ if (isset($_SESSION['user'])) {
     <link rel="icon" href="favicon.png" />
     <link rel="shortcut icon" href="favicon.png" />
 
-    <title>Inventory System</title>
+    <title>Inventory Systemsss</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
